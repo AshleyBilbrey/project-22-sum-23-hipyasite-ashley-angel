@@ -1,3 +1,5 @@
+[![Deploy](https://github.com/AshleyBilbrey/project-22-sum-23-hipyasite-ashley-angel/actions/workflows/deploy.yml/badge.svg)](https://github.com/AshleyBilbrey/project-22-sum-23-hipyasite-ashley-angel/actions/workflows/deploy.yml)
+
 # Production Engineering - Week 1 - HipYaSite
 
 For the hackathon we had to build a portfolio site. The templated site contains a home page with with our education and projects, an about me page and a hobbies page. The hobbies page implements a maps api to display the interesting places that we have been to along with the hobbies done in that specific location. 
